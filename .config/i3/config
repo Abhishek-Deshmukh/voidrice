@@ -85,7 +85,7 @@ bindsym $mod+Shift+t		gaps inner current set $inner_gaps; gaps outer current set
 bindsym $mod+y			exec $term -e calcurse
 bindsym $mod+Shift+y		exec --no-startup-id i3resize left
 
-bindsym $mod+u			exec --no-startup-id ddspawn tmuxdd
+bindsym $mod+u			exec --no-startup-id ddspawn byobu
 bindsym $mod+Shift+u		exec --no-startup-id i3resize down
 
 bindsym $mod+i 			exec $term -e htop
