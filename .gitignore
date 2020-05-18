@@ -1,0 +1,12 @@
+\*
+!\.config
+!\.git
+!\.gitignore
+!\.gitmodules
+!\LICENSE
+!\.local
+!\.profile
+!\README.md
+!\.xinitrc
+!\.xprofile
+!\.zprofile
